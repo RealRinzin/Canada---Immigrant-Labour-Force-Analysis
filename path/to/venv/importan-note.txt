@@ -1,0 +1,4 @@
+1. Population = Labour Force + Not Labour Force
+2. Labour Force = Employment + Unemployment
+3. Employment = Full Time Employment + Part Time Employment
+4. Employment Rate = Employment Rate + Unemployment Rate
